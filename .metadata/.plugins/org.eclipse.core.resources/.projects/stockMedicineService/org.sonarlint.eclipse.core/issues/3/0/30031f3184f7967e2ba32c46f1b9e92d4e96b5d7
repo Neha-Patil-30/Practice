@@ -1,0 +1,13 @@
+
+
+java:S1128"NRemove this unused import 'org.springframework.data.jpa.repository.Modifying'.(—·Ñ”şÿÿÿÿH©RMINORZ
+CODE_SMELL
+†
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿHªRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à‡ÍÿÿÿÿÿH«RMINORZ
+CODE_SMELL
+€
+java:S1128
+"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿH¬RMINORZ
+CODE_SMELL

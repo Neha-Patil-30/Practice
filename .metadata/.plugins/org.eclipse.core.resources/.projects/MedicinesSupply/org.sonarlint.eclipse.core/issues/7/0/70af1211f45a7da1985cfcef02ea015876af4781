@@ -1,0 +1,29 @@
+
+}
+java:S3008%"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÝ¢‚HÑRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûŸ“äHÒRMINORZ
+CODE_SMELL
+V
+java:S5411C"*Use the primitive boolean expression here.(þË®ÚHÓRMINORZ
+CODE_SMELL
+Z
+java:S1452V"&Remove usage of generic wildcard type.(ŽŠˆ“úÿÿÿÿHÔRCRITICALZ
+CODE_SMELL
+g	java:S125Z"<This block of commented-out lines of code should be removed.(œãùÉHÕRMAJORZ
+CODE_SMELL
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅþÿÿÿÿHØRMINORZ
+CODE_SMELL
+m
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿHÙRMINORZ
+CODE_SMELL
+g
+java:S3416%";Update this logger to use "MedicineSupplyController.class".(ÀÝ¢‚HÚRMINORZ
+CODE_SMELL
+V
+java:S5411X"*Use the primitive boolean expression here.(þË®ÚHÛRMINORZ
+CODE_SMELL
+y
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ñ½íÅþÿÿÿÿHÜRMINORZ
+CODE_SMELL

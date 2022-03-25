@@ -1,0 +1,15 @@
+
+c
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛHçRMINORZ
+CODE_SMELL
+W
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼üHèRMINORZ
+CODE_SMELL
+^
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿHéRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý®•ËHêRMINORZ
+CODE_SMELL
+k
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ªHëRMINORZ
+CODE_SMELL

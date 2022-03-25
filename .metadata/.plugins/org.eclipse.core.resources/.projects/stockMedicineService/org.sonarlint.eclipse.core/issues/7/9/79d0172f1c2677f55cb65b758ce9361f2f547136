@@ -1,0 +1,57 @@
+
+s
+java:S4488X"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ü¡¢gHÎRMINORZ
+CODE_SMELL
+z
+java:S11928"FDefine a constant instead of duplicating this literal "START" 3 times.(úÌ¯ÔÿÿÿÿÿHĞRCRITICALZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿHÔRMINORZ
+CODE_SMELL
+`
+java:S3740K"/Provide the parametrized type for this generic.( îé¦ûÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¸¡«HÖRMINORZ
+CODE_SMELL
+
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿH×RMINORZ
+CODE_SMELL
+Z
+java:S1452Y"&Remove usage of generic wildcard type.(Ò×ö°ÿÿÿÿÿHØRCRITICALZ
+CODE_SMELL
+~
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestHeader'.(ØÙë™HÙRMINORZ
+CODE_SMELL
+b
+java:S1128"1Remove this unused import 'feign.FeignException'.(‡ÆÇÄÿÿÿÿÿHÚRMINORZ
+CODE_SMELL
+^
+java:S3416'"2Update this logger to use "StockController.class".(òäç¿HÛRMINORZ
+CODE_SMELL
+}
+java:S3008'"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òäç¿HÜRMINORZ
+CODE_SMELL
+Z
+java:S1452G"&Remove usage of generic wildcard type.(ëïüÿÿÿÿHİRCRITICALZ
+CODE_SMELL
+€
+java:S1128"TRemove this unused import 'com.cognizant.stockMedicineService.dao.MedicineStockDAO'.(ˆ‚ÖõHŞRMINORZ
+CODE_SMELL
+Z
+java:S14527"&Remove usage of generic wildcard type.(¨…Ç”ùÿÿÿÿHßRCRITICALZ
+CODE_SMELL
+r
+java:S1117L"ARename "medicineStock" which hides the field declared at line 49.(ßÖåÌÿÿÿÿÿHàRMAJORZ
+CODE_SMELL
+{
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰ØHáRMINORZ
+CODE_SMELL
+z
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿHâRMINORZ
+CODE_SMELL
+t
+java:S4488F"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ï …¤HãRMINORZ
+CODE_SMELL
+t
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™ãú¹HåRMINORZ
+CODE_SMELL
